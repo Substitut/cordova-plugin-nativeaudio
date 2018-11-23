@@ -2,6 +2,10 @@
 
 Cordova / PhoneGap 3.5+ extension for Native Audio playback, aimed at HTML5 gaming and audio applications which require minimum latency, polyphony and concurrency.
 
+## Fork modification
+
+Remove audio stop on Application pause in Android.
+
 ## Contents
 
 1. [Description](#description)

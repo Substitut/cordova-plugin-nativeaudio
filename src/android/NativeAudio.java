@@ -311,7 +311,7 @@ public class NativeAudio extends CordovaPlugin implements AudioManager.OnAudioFo
         }
     }
 
-    @Override
+/*     @Override
     public void onPause(boolean multitasking) {
         super.onPause(multitasking);
 
@@ -331,5 +331,5 @@ public class NativeAudio extends CordovaPlugin implements AudioManager.OnAudioFo
             NativeAudioAsset asset = resumeList.remove(0);
             asset.resume();
         }
-    }
+    } */
 }
